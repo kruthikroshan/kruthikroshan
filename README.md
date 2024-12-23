@@ -99,5 +99,8 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ### 📈 **Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ** 📈  
 <p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=kruthikroshan&theme=github" alt="Contribution Graph" width="600" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikroshan&theme=radical" alt="GitHub Streaks" width="600" />  
 </p>  
+<p align="center">  
+  <img src="https://activity-graph.herokuapp.com/graph?username=kruthikroshan&theme=github" alt="Contribution Graph" width="600" />  
+</p>
