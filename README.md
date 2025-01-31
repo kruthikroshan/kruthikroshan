@@ -58,20 +58,6 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ---
 
-### **LeetCode Strikes** ⚡  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kruthikroshan?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Strikes" />
-</p>
-
----
-
-### 🏆 **Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs** 🏆  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=kruthikroshan&theme=onedark&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" width="600" />  
-</p>  
-
----
-
 ### 🚀 **Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs** 🚀  
 <p align="center">  
   <table align="center">  
