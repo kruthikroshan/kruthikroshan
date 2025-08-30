@@ -43,8 +43,6 @@ Feel free to connect with me on LinkedIn to explore opportunities, collaboration
 
 ### 🌐 **Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs** 🌐  
 <p align="center">  
-  <a href="https://leetcode.com/u/kruthikroshan/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />  
   </a>  
   &nbsp;&nbsp;  
   <a href="https://www.hackerrank.com/godishalakruthi3" target="_blank" rel="noreferrer">  
