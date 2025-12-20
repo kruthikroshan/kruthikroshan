@@ -45,26 +45,46 @@ I enjoy building **scalable, production-ready applications**, contributing to **
 **CGPA:** 8.5 / 10  
 
 **Relevant Coursework:**  
-Data Structures · DBMS · OOP · Operating Systems · AI · ML · Computer Networks
+Data Structures · DBMS · OOP · Operating Systems · Computer Networks
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Java  
-- SQL / MySQL  
-- HTML · CSS · JavaScript  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" alt="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+</p>
+
+---
 
 ### ⚙️ Frameworks & Libraries
-- React.js  
-- Node.js  
-- Pandas · NumPy · Scikit-learn  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" alt="React.js"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js"/>
+</p>
+
+---
 
 ### ☁️ Cloud & Tools
-- AWS  
-- Git & GitHub  
-- Visual Studio Code  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" alt="VS Code"/>
+</p>
 
 ---
 
@@ -148,27 +168,32 @@ Data Structures · DBMS · OOP · Operating Systems · AI · ML · Computer Netw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=radical" width="600"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=radical&cache_seconds=1800"
+    width="600"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthikroshan&layout=compact&theme=radical" width="600"/>
-</p>
+---
+## 📫 Contact & Profiles
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikroshan&theme=radical" width="600"/>
+  <a href="mailto:kruthikroshangodishala@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kruthikroshangodishala%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kruthikroshan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kruthik%20Roshan%20Godishala-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kruthikroshan">
+    <img src="https://img.shields.io/badge/GitHub-kruthikroshan-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📌 Pinned Repository Strategy (IMPORTANT)
+<p align="center">
+  💡 Open to internships, full-stack projects, and open-source collaboration  
+</p>
 
-⭐ Pin these repos on your GitHub profile:
-1. Rental Management System (MERN + Payments)
-2. Bank Management System (Java + Spring)
-3. Any Open-Source Contribution PR
-4. One DSA or Algorithm project
-
----
-
-✨ *“Code with clarity. Build with purpose.”*
