@@ -1,90 +1,161 @@
-<div align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600" />  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
 </div>
 
 ---
 
-👋 **Hi, I’m Kruthikroshan**  
-👀 I’m interested in **Data Structures and Algorithms (DSA)**, particularly in optimizing search algorithms and understanding complex data structures.  
-🌱 I’m currently learning **DSA**, focusing on dynamic programming and graph algorithms, and working on small projects to apply my knowledge.  
-💞️ I’m looking to collaborate on developing a website providing **DSA resources and interactive tutorials**, using technologies like HTML, CSS, JavaScript, and backend frameworks. I'm also keen on contributing to open-source DSA projects.  
+<h1 align="center">Hello 👋, I'm Kruthik Roshan Godishala</h1>
 
-📫 **How to reach me:**  
-&nbsp;&nbsp;&nbsp;&nbsp;📧 Email: [godishalakruthikroshan7@gmail.com](mailto:godishalakruthikroshan7@gmail.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 LinkedIn: [Kruthik Roshan Godishala](https://www.linkedin.com/in/kruthikroshan/)  
-😄 Pronouns: **He/Him**  
-⚡ Fun fact: **I can solve a Rubik’s cube in under a minute and have traveled to 10 different countries!**
+<p align="center">
+Aspiring Software Engineer | Full-Stack Developer | Java & MERN Stack | Hackathon Finalist
+</p>
 
----
-
-<h1 align="center">Hello 👋, I'm Kruthik Roshan Godishala</h1>  
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=kruthikroshan&color=blue&style=flat-square" alt="Profile Views" />  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kruthikroshan&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-### 🌐 **LinkedIn Profile** 🌐  
-- **Profile:** [Kruthik Roshan Godishala](https://www.linkedin.com/in/kruthikroshan/)  
-- **About Me:**  
-  I am passionate about technology, coding, and solving challenging problems in the field of Data Structures and Algorithms. My journey includes:  
-  - **Internships:**  
-    - **ShadowFox:** Data Science Intern  
-    - **CodeClause:** Java Development Intern  
-    - **InternPe:** Completed a professional internship  
-  - **Educational Background:**  
-    - **School:** [SRI HARSHA HIGH SCHOOL DAMERA X ROAD]  
-    - **College:** [SR University]  
+## 👨‍💻 About Me
 
-Feel free to connect with me on LinkedIn to explore opportunities, collaborations, or just to discuss all things tech!
+I am an **Aspiring Software Engineer** with strong hands-on experience in **full-stack web development** and a solid foundation in **Data Structures, Algorithms, Databases, and Backend Systems**.
+
+I enjoy building **scalable, production-ready applications**, contributing to **open-source projects**, and solving real-world problems through **hackathons and team collaborations**.
 
 ---
 
-### 🌐 **Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs** 🌐  
-<p align="center">  
-  </a>  
-  &nbsp;&nbsp;  
-  <a href="https://www.hackerrank.com/godishalakruthi3" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40" />  
-  </a>  
-  &nbsp;&nbsp;  
-  <a href="https://auth.geeksforgeeks.org/user/kruthikroshan18/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40" />  
-  </a>  
-</p>  
+## 🎓 Education
+
+**SR University, Warangal, Telangana**  
+**Bachelor of Technology – Computer Science**  
+**Duration:** 2023 – 2027  
+**CGPA:** 8.5 / 10  
+
+**Relevant Coursework:**  
+Data Structures · DBMS · OOP · Operating Systems · AI · ML · Computer Networks
 
 ---
 
-### 🚀 **Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs** 🚀  
-<p align="center">  
-  <table align="center">  
-    <tr>  
-      <td align="center"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/><br />Java</a></td>  
-      <td align="center"><a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2807/2807994.png" alt="Data Structures" width="60" height="60"/><br />Data Structures</a></td>  
-      <td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/><br />Python</a></td>  
-      <td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/><br />Git</a></td>  
-      <td align="center"><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/><br />Docker</a></td>  
-    </tr>  
-  </table>  
-</p>  
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Java  
+- SQL / MySQL  
+- HTML · CSS · JavaScript  
+
+### ⚙️ Frameworks & Libraries
+- React.js  
+- Node.js  
+- Pandas · NumPy · Scikit-learn  
+
+### ☁️ Cloud & Tools
+- AWS  
+- Git & GitHub  
+- Visual Studio Code  
 
 ---
 
-### 📊 **Gɪᴛʜᴜʙ Sᴛᴀᴛs** 📊  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="600" />  
-</p>  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthikroshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />  
-</p>  
+## 🚀 Featured Projects
+
+### 🏠 Rental Management System (2025)
+**Tech Stack:** MERN Stack, SQL, Razorpay / Stripe / PayPal  
+
+🔹 Built a full-stack rental platform covering product management, booking, pickup & return scheduling  
+🔹 Integrated secure online payments  
+🔹 Implemented flexible pricing (hourly, daily, weekly, monthly)  
+🔹 Added revenue dashboards and downloadable reports (PDF, Excel, CSV)  
+
+📌 *Pinned Repository Recommendation*
 
 ---
 
-### 📈 **Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ** 📈  
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikroshan&theme=radical" alt="GitHub Streaks" width="600" />  
-</p>  
-<p align="center">  
-  <img src="https://activity-graph.herokuapp.com/graph?username=kruthikroshan&theme=github" alt="Contribution Graph" width="600" />  
+### 🏦 Bank Management System (2024)
+**Tech Stack:** Java, Spring Framework  
+
+🔹 Backend-driven banking application  
+🔹 Features include deposits, withdrawals, fund transfers, and transaction history  
+🔹 Implemented Spring-based authentication and secure session handling  
+🔹 Designed scalable architecture for financial operations  
+
+📌 *Pinned Repository Recommendation*
+
+---
+
+## 🏆 Hackathons & Competitions
+
+### 🥇 Odoo National Hackathon – Finalist (Aug 2025)
+- Ranked **Top 8 teams out of 19,000+ participants (Top 0.05%)**  
+- Designed and developed a **Rental Management System**  
+- PostgreSQL backend with React frontend  
+- Built real-world rental workflows with payments and scheduling  
+
+---
+
+## 🧠 Leadership & Extracurriculars
+
+### 🎯 Membership Chair – Coding Club, SR University (2024)
+
+- Managed and maintained club website with **99% uptime**  
+- Increased event registrations by **40%**  
+- Boosted member engagement by **30%**  
+- Organized workshops and competitions for **100+ students**  
+- Gained strong skills in **leadership, communication, and team management**
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🏅 **Certificate of Academic Excellence** – SR University (2 Times)  
+- ☁️ **AWS Academy Graduate – Data Engineering (2025)**  
+  Completed 40-hour training on AWS cloud data pipelines  
+
+---
+
+## 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://github.com/kruthikroshan" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/kruthikroshan/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+  </a>
 </p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 **Email:** kruthikroshangodishala@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/kruthikroshan/  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=radical" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kruthikroshan&layout=compact&theme=radical" width="600"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruthikroshan&theme=radical" width="600"/>
+</p>
+
+---
+
+## 📌 Pinned Repository Strategy (IMPORTANT)
+
+⭐ Pin these repos on your GitHub profile:
+1. Rental Management System (MERN + Payments)
+2. Bank Management System (Java + Spring)
+3. Any Open-Source Contribution PR
+4. One DSA or Algorithm project
+
+---
+
+✨ *“Code with clarity. Build with purpose.”*
