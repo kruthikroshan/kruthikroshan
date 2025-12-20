@@ -118,7 +118,7 @@ Data Structures · DBMS · OOP · Operating Systems · AI · ML · Computer Netw
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/kruthikroshan/" target="_blank">
+  <a href="https://leetcode.com/u/godishalakruthikroshan/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
   </a>
 </p>
