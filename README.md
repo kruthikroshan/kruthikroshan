@@ -1,6 +1,19 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="600"/>
+  <img 
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR6M3ZsOXltaWw5MW1wcmFvNnh5dWNwM2p2Z2xnbGZqbnZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" 
+       alt="Developer Coding""
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjbTJ6Y3N5aGl4MmxtN3JpMW0ybmI2b2c3MWFnd3V1bW12ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"
+    alt="Programmer working on code"
+    width="450"
+  />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=0A66C2&center=true&vCenter=true&width=520&lines=I+am+a+Full+Stack+Developer" />
+</p>
 </div>
+
 
 ---
 
