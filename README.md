@@ -1,199 +1,160 @@
 <div align="center">
-  <img
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR6M3ZsOXltaWw5MW1wcmFvNnh5dWNwM2p2Z2xnbGZqbnZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" 
-       alt="Developer Coding""
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjbTJ6Y3N5aGl4MmxtN3JpMW0ybmI2b2c3MWFnd3V1bW12ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif"
-    alt="Programmer working on code"
-    width="450"
-  />
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=0A66C2&center=true&vCenter=true&width=520&lines=I+am+a+Full+Stack+Developer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Kruthik%20Roshan%20Godishala&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Java+%26+MERN+Stack;Hackathon+Finalist+%7C+Aspiring+Software+Engineer;Building+Scalable+Apps+%7C+Backend+%2B+Database+Focus;Love+Problem+Solving+and+System+Design+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjR6M3ZsOXltaWw5MW1wcmFvNnh5dWNwM2p2Z2xnbGZqbnZkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="330" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFjbTJ6Y3N5aGl4MmxtN3JpMW0ybmI2b2c3MWFnd3V1bW12ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="370" />
+
+<br/><br/>
+
+<p>
+  <a href="https://github.com/kruthikroshan"><img src="https://img.shields.io/badge/GitHub-kruthikroshan-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/kruthikroshan/"><img src="https://img.shields.io/badge/LinkedIn-Kruthik%20Roshan%20Godishala-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:kruthikroshangodishala@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=kruthikroshan&label=Profile%20Views&color=00E5FF&style=flat-square" />
+
 </div>
 
+---
+
+## 🌟 About Me (My Developer Story)
+
+🎓 B.Tech CSE Student @ **SR University (2023–2027)**  
+⚡ Full-Stack Developer (**Java + MERN**)  
+🏆 **Odoo National Hackathon Finalist** (*Top 8 out of 19,000+ participants*)  
+📌 Interested in **Backend Engineering, Databases, APIs, System Design**
+
+✅ I build apps that are:
+- scalable & production-ready  
+- database optimized  
+- real-world workflow based  
 
 ---
 
-<h1 align="center">Hello 👋, I'm Kruthik Roshan Godishala</h1>
+## 🔥 Tech Stack (Animated Skills)
 
-<p align="center">
-Aspiring Software Engineer | Full-Stack Developer | Java & MERN Stack | Hackathon Finalist
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kruthikroshan&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql&theme=dark" />
 
----
+### ⚙️ Frameworks
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express&theme=dark" />
 
-## 👨‍💻 About Me
+### ☁️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman&theme=dark" />
 
-I am an **Aspiring Software Engineer** with strong hands-on experience in **full-stack web development** and a solid foundation in **Data Structures, Algorithms, Databases, and Backend Systems**.
-
-I enjoy building **scalable, production-ready applications**, contributing to **open-source projects**, and solving real-world problems through **hackathons and team collaborations**.
+</div>
 
 ---
 
-## 🎓 Education
+## 🚀 Projects That Define Me
 
-**SR University, Warangal, Telangana**  
-**Bachelor of Technology – Computer Science**  
-**Duration:** 2023 – 2027  
-**CGPA:** 8.5 / 10  
+<div align="center">
 
-**Relevant Coursework:**  
-Data Structures · DBMS · OOP · Operating Systems · Computer Networks
+### 🏠 Rental Management System (Hackathon Finalist Project)
+📌 **A complete rental ecosystem platform**
 
----
+✅ Booking → Pickup → Return workflow  
+✅ Payments (Stripe / Razorpay)  
+✅ Pricing models (hourly/daily/weekly/monthly)  
+✅ Dashboards + Reports (PDF/CSV/Excel)
 
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" alt="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="65" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
-</p>
+**Tech:** MERN Stack + PostgreSQL
 
 ---
 
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" alt="React.js"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" alt="Node.js"/>
-</p>
+### 🏦 Bank Management System
+📌 **Secure Spring-based banking backend**
+
+✅ Deposit / Withdraw / Transfer  
+✅ Transaction Logs  
+✅ Authentication + Session security  
+✅ Clean modular architecture
+
+**Tech:** Java + Spring + SQL
+
+</div>
 
 ---
 
-### ☁️ Cloud & Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75" alt="AWS"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" alt="VS Code"/>
-</p>
+## 🏆 Hackathon Highlight
+
+<div align="center">
+
+🏅 **Odoo National Hackathon – Finalist (Aug 2025)**  
+✅ Top **8 teams out of 19,000+** (*Top 0.05%*)  
+✅ Built Rental Management System with full real workflow + payments  
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Leadership
 
-### 🏠 Rental Management System (2025)
-**Tech Stack:** MERN Stack, SQL, Razorpay / Stripe / PayPal  
-
-🔹 Built a full-stack rental platform covering product management, booking, pickup & return scheduling  
-🔹 Integrated secure online payments  
-🔹 Implemented flexible pricing (hourly, daily, weekly, monthly)  
-🔹 Added revenue dashboards and downloadable reports (PDF, Excel, CSV)  
-
-📌 *Pinned Repository Recommendation*
+### 👥 Membership Chair – Coding Club (SR University)
+✅ Maintained website **99% uptime**  
+📈 Increased registrations **+40%**  
+🚀 Boosted engagement **+30%**  
+🎤 Organized events for **100+ students**
 
 ---
 
-### 🏦 Bank Management System (2024)
-**Tech Stack:** Java, Spring Framework  
+## 📌 Current Focus
 
-🔹 Backend-driven banking application  
-🔹 Features include deposits, withdrawals, fund transfers, and transaction history  
-🔹 Implemented Spring-based authentication and secure session handling  
-🔹 Designed scalable architecture for financial operations  
-
-📌 *Pinned Repository Recommendation*
+✅ Advanced DSA + Competitive Programming  
+✅ Backend Engineering (Spring Boot)  
+✅ System Design + Cloud Deployment (AWS)
 
 ---
 
-## 🏆 Hackathons & Competitions
+## 📊 GitHub Analytics
 
-### 🥇 Odoo National Hackathon – Finalist (Aug 2025)
-- Ranked **Top 8 teams out of 19,000+ participants (Top 0.05%)**  
-- Designed and developed a **Rental Management System**  
-- PostgreSQL backend with React frontend  
-- Built real-world rental workflows with payments and scheduling  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=react&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikroshan&theme=react&hide_border=true" width="48%"/>
+</div>
 
----
+<br/>
 
-## 🧠 Leadership & Extracurriculars
-
-### 🎯 Membership Chair – Coding Club, SR University (2024)
-
-- Managed and maintained club website with **99% uptime**  
-- Increased event registrations by **40%**  
-- Boosted member engagement by **30%**  
-- Organized workshops and competitions for **100+ students**  
-- Gained strong skills in **leadership, communication, and team management**
-
----
-
-## 📜 Certifications & Achievements
-
-- 🏅 **Certificate of Academic Excellence** – SR University (2 Times)  
-- ☁️ **AWS Academy Graduate – Data Engineering (2025)**  
-  Completed 40-hour training on AWS cloud data pipelines  
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikroshan&theme=react-dark&hide_border=true" />
+</div>
 
 ---
 
 ## 🌐 Coding Profiles
 
-<p align="center">
-  <a href="https://github.com/kruthikroshan" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/godishalakruthikroshan/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/kruthikroshan"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/u/godishalakruthikroshan/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/godishalakruthi3"><img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+</div>
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** kruthikroshangodishala@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/kruthikroshan/  
+<div align="center">
+
+📩 **Email:** kruthikroshangodishala@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/kruthikroshan/  
+
+💡 *Open to internships, full-stack projects & open-source collaboration.*
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=radical&cache_seconds=1800"
-    width="600"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer" />
 
----
-## 📫 Contact & Profiles
-
-<p align="center">
-  <a href="mailto:kruthikroshangodishala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kruthikroshangodishala%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kruthikroshan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kruthik%20Roshan%20Godishala-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kruthikroshan">
-    <img src="https://img.shields.io/badge/GitHub-kruthikroshan-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  💡 Open to internships, full-stack projects, and open-source collaboration  
-</p>
-
+</div>
