@@ -96,23 +96,19 @@ status     : Open to Internships & Backend Engineering Opportunities 💼
 </td>
 <td width="50%" valign="top">
 
-### 🏠 Rental Management System
-**Full-Stack Rental Ecosystem — Hackathon Winner**
+### 🏥 Hospital & PHC
+**Patient Management System**
 
-> Built during Odoo National Hackathon (Top 8 / 19,000+ teams)
+> Full-stack digital health platform eliminating paper-based records for government hospitals & PHCs
 
 **✨ Highlights:**
-- 🔄 Booking → Pickup → Return Workflow
-- 💳 Stripe & Razorpay Payment Integration
-- 📅 Hourly / Daily / Weekly / Monthly Pricing
-- 📈 Admin Dashboard with PDF / CSV / Excel Reports
-- 📦 Inventory & Rental Tracking System
+- 👥 4 user roles: Patient, Doctor, ASHA Worker & Admin
+- 📋 10 MongoDB collections — appointments, prescriptions, vaccinations, drug inventory & referrals
+- 📄 Auto-generated PDFs with QR codes & hospital letterhead via PDFKit
+- 📲 Twilio SMS reminders for appointments & vaccination due-dates via node-cron
+- 🔐 AES-256 Aadhaar encryption + JWT role-based access control
 
-**🔧 Stack:** MERN Stack • PostgreSQL • REST APIs
-
-<a href="https://rental-management-system-lovat.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Rental%20System-7B2FBE?style=for-the-badge"/>
-</a>
+**🔧 Stack:** React.js • Node.js • Express.js • MongoDB • Mongoose • JWT • Twilio • PDFKit • Cloudinary
 
 </td>
 </tr>
@@ -175,6 +171,21 @@ status     : Open to Internships & Backend Engineering Opportunities 💼
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer |
+|:---|:---|
+| 🌐 **Networking Basics** | Cisco |
+| ☁️ **Cloud Security Builder** | AWS Academy |
+| 🌍 **Cloud Web Application Builder** | AWS Academy |
+| 🛠️ **Cloud Developing** | AWS Academy |
+
+</div>
+
+---
+
 ## 👥 Leadership & Impact
 
 <div align="center">
@@ -225,6 +236,10 @@ status     : Open to Internships & Backend Engineering Opportunities 💼
 &nbsp;
 <a href="https://www.hackerrank.com/profile/godishalakruthi3">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/kruthikroshan/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kruthikroshan/">
