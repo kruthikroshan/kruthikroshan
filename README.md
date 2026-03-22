@@ -1,192 +1,219 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A66C2,50:00E5FF,100:7B2FBE&height=260&section=header&text=Kruthik%20Roshan%20Godishala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2B%20MERN%20%7C%20Backend%20Engineer&descSize=18&descAlignY=58&descColor=c9f0ff"/>
+<!-- DYNAMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0A66C2,70:00E5FF,100:7B2FBE&height=280&section=header&text=Kruthik%20Roshan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Backend%20Systems%20That%20Scale%20%F0%9F%9A%80&descSize=20&descAlignY=62&descColor=c9f0ff" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=🚀+Building+Scalable+Backend+Systems;⚡+Java+%7C+Spring+Boot+%7C+MERN+Stack;🏆+Odoo+Hackathon+Finalist+%7C+Top+8+of+19%2C000%2B+Teams;🎓+Semester+Topper+%7C+CGPA+8.5;💡+Open+to+Internships+%26+Backend+Engineering+Roles" />
-
-<br/>
-
-<a href="https://myportfolio-five-swart-64.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/kruthikroshan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-kruthikroshan-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kruthikroshan/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:kruthikroshangodishala@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=900&lines=Full+Stack+Developer+%7C+Java+%2B+MERN+Stack+%7C+Backend+Engineer;Odoo+National+Hackathon+Finalist+%E2%80%94+Top+8+%2F+19%2C000%2B+Teams+%F0%9F%8F%86;Semester+Topper+%7C+CGPA+8.5+%7C+SR+University+2027;Open+to+Internships+%26+Backend+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kruthikroshan&label=Profile+Views&color=00E5FF&style=flat-square" />
-<img src="https://img.shields.io/github/followers/kruthikroshan?label=Followers&style=flat-square&color=0A66C2" />
+<!-- SOCIAL BADGES — clean row -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-swart-64.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthikroshan/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kruthikroshan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/godishalakruthikroshan/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksForGeeks-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kruthikroshan/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/godishalakruthi3)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kruthikroshangodishala@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kruthikroshan&label=Profile+Views&color=00E5FF&style=flat-square)&nbsp;
+![Followers](https://img.shields.io/github/followers/kruthikroshan?label=Followers&style=flat-square&color=7B2FBE)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; About Me
 
 ```yaml
-name       : Kruthik Roshan Godishala
-degree     : B.Tech Computer Science — SR University (2023–2027)
-role       : Full Stack Developer (Java + MERN Stack)
-focus      : Backend Engineering · API Design · System Architecture
-achievement: Odoo National Hackathon Finalist — Top 8 / 19,000+ Teams
-cgpa       : 8.5 | Semester Topper (1st, 2nd, 3rd Year)
-status     : Open to Internships & Backend Engineering Opportunities 💼
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   name     :  Kruthik Roshan Godishala                  │
+│   location :  Warangal, Telangana, India  🇮🇳            │
+│   degree   :  B.Tech CSE — SR University (2023–2027)    │
+│   cgpa     :  8.5 / 10  |  Semester Topper 🏆           │
+│   role     :  Full Stack Dev  |  Backend Engineer        │
+│   stack    :  Java  •  MERN  •  Spring Boot             │
+│   win      :  Odoo Hackathon Finalist  Top 8/19K+       │
+│   status   :  👀 Open to Internships & Opportunities    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-> *"I don't just write code — I architect solutions that scale."*
+<div align="center">
+
+> ### *"I don't just write code — I architect solutions that scale."*
+
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Tech Arsenal
 
 <div align="center">
 
-### 💬 Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark" />
+### ⚡ Languages & Core
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind&theme=dark" />
+### 🚀 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark" />
+### ☁️ Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 EduTrack AI
-**AI-Powered Student Performance Analytics Platform**
-
-> Multi-role academic platform with predictive analytics
-
-**✨ Highlights:**
-- 🤖 AI Learning Assistant & Performance Prediction
-- 👥 Admin / Teacher / Student portals
-- 📊 Live Progress & Analytics Dashboard
-- 🌍 Multi-language Support (6 languages)
-- 📝 Assignment & Quiz Management
-
-**🔧 Stack:** React • TypeScript • Supabase • PostgreSQL • Gemini AI • OpenAI • Tailwind • Recharts
-
-<a href="https://edu-track-ai-ed-tech-system.vercel.app/">
-  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-EduTrack%20AI-00E5FF?style=for-the-badge"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Hospital & PHC
-**Patient Management System**
-
-> Full-stack digital health platform eliminating paper-based records for government hospitals & PHCs
-
-**✨ Highlights:**
-- 👥 4 user roles: Patient, Doctor, ASHA Worker & Admin
-- 📋 10 MongoDB collections — appointments, prescriptions, vaccinations, drug inventory & referrals
-- 📄 Auto-generated PDFs with QR codes & hospital letterhead via PDFKit
-- 📲 Twilio SMS reminders for appointments & vaccination due-dates via node-cron
-- 🔐 AES-256 Aadhaar encryption + JWT role-based access control
-
-**🔧 Stack:** React.js • Node.js • Express.js • MongoDB • Mongoose • JWT • Twilio • PDFKit • Cloudinary
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 Banking Management System
-**Secure Banking Backend Simulator**
-
-> Real-world banking operations in a robust Java OOP architecture
-
-**✨ Highlights:**
-- 🔐 Account creation & authentication
-- 💸 Deposit / Withdraw / Transfer operations
-- ✅ Transaction validation & error handling
-- 🏗️ Modular object-oriented architecture
-
-**🔧 Stack:** Java • OOP • Collections • CLI Architecture
-
-<a href="https://banking-management-system-xw7m.onrender.com/">
-  <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Banking%20System-0A66C2?style=for-the-badge"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔮 More Coming Soon...
-**Always building, always shipping.**
-
-> New projects in the pipeline — stay tuned!
-
-**📌 Areas of Interest:**
-- 🌐 Distributed Systems
-- ⚡ High-Performance APIs
-- 🤖 AI-Integrated Backends
-- 🔒 Secure System Design
-
-<a href="https://github.com/kruthikroshan?tab=repositories">
-  <img src="https://img.shields.io/badge/📂%20View%20All%20Repos-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements & Recognition
+## 🚀 &nbsp; Featured Projects
 
 <div align="center">
 
-| 🥇 Achievement | 📋 Details |
-|:---|:---|
-| 🏆 **Odoo National Hackathon Finalist** | Top **8 teams** out of **19,000+ participants** nationwide |
-| 🎓 **Semester Topper** | 1st, 2nd & 3rd Year — consistent academic excellence |
-| 📊 **CGPA 8.5** | Strong academic performance in Computer Science |
-| 👥 **Coding Club Leadership** | Membership Chair — managed 200+ members, +40% growth |
+| 🎓 EduTrack AI | 🏥 Hospital & PHC |
+|:---:|:---:|
+| **AI-Powered Education Management Platform** | **Patient Management System** |
+| Multi-role EdTech platform with AI at its core | Digital health platform eliminating paper records |
+| React 18 • TypeScript • Supabase • Gemini AI • OpenAI | React • Node • Express • MongoDB • Twilio • PDFKit |
+| 3 portals · JWT auth · 40+ PostgreSQL tables · RLS | 4 roles · AES-256 encryption · auto-PDF · SMS alerts |
+| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00E5FF?style=flat-square)](https://edu-track-ai-ed-tech-system.vercel.app/) | *In Development* |
+
+| 🏦 Banking Management System | 🔮 More Coming Soon |
+|:---:|:---:|
+| **Secure Banking Backend Simulator** | **Always building, always shipping** |
+| Real-world banking ops in Java OOP architecture | New projects in the pipeline — stay tuned! |
+| Java • OOP • Collections Framework • CLI | Distributed Systems · High-Performance APIs |
+| CAPTCHA auth · transactions · modular design | AI-Integrated Backends · Secure System Design |
+| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0A66C2?style=flat-square)](https://banking-management-system-xw7m.onrender.com/) | [![View All](https://img.shields.io/badge/📂_All_Repos-181717?style=flat-square&logo=github)](https://github.com/kruthikroshan?tab=repositories) |
 
 </div>
 
+<br/>
+
+<!-- Detailed project cards -->
+<details>
+<summary><b>🎓 EduTrack AI — Full Details</b></summary>
+<br/>
+
+> **Solo-built** full-stack EdTech platform serving 3 user roles with enterprise-grade security
+
+- 🤖 **AI Features** — Lesson plan generation, student performance predictions, sentiment analysis & personalized study plans via Google Gemini & OpenAI GPT
+- 👥 **Role-Based Access** — Admin, Teacher & Student portals with JWT authentication and Row Level Security across **40+ PostgreSQL tables**
+- ⚡ **Real-Time Sync** — Live attendance, marks & notifications using Supabase Realtime + TanStack Query
+- 🌍 **Internationalization** — 6-language support (English, Hindi, Tamil, Telugu, Kannada, Malayalam) via i18next
+- 🔒 **Enterprise Security** — PII masking views, audit trails, rate-limited edge functions & Zod schema validation
+
+**Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `Supabase (PostgreSQL)` `Google Gemini` `OpenAI GPT` `Recharts`
+
+</details>
+
+<details>
+<summary><b>🏥 Hospital & PHC — Full Details</b></summary>
+<br/>
+
+> Full-stack digital health platform for government hospitals & PHCs — zero paper, all digital
+
+- 👥 **4 User Roles** — Patient, Doctor, ASHA Worker & Admin, each with dedicated dashboards
+- 📋 **10 MongoDB Collections** — patient registration, appointments, visits, prescriptions, vaccinations, drug inventory & referrals with **30+ optimised indexes**
+- 📄 **Auto-Generated PDFs** — Digital prescriptions & referral letters with hospital letterhead, QR codes & doctor signature blocks via PDFKit
+- 📲 **SMS Reminders** — Twilio-powered appointment & vaccination due-date alerts via node-cron scheduler
+- 🔐 **Security** — AES-256 encryption for Aadhaar data + JWT role-based access control
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Twilio` `PDFKit` `Cloudinary`
+
+</details>
+
+<details>
+<summary><b>🏦 Banking Management System — Full Details</b></summary>
+<br/>
+
+> A real-world banking simulator built entirely in Java with solid OOP foundations
+
+- 🔐 **Authentication** — Account creation with CAPTCHA-based login security
+- 💸 **Transactions** — Deposits, withdrawals, fund transfers & balance checks
+- ✅ **Validation** — Transaction validation with robust error handling throughout
+- 🏗️ **Architecture** — Modular OOP design using abstraction, inheritance & interfaces with Java Collections (ArrayList)
+
+**Stack:** `Java` `OOP` `Collections Framework` `CLI Architecture`
+
+</details>
+
 ---
 
-## 📜 Certifications
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 &nbsp; Achievements & Recognition
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer |
-|:---|:---|
-| 🌐 **Networking Basics** | Cisco |
-| ☁️ **Cloud Security Builder** | AWS Academy |
-| 🌍 **Cloud Web Application Builder** | AWS Academy |
-| 🛠️ **Cloud Developing** | AWS Academy |
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🏆  Odoo National Hackathon Finalist                           ║
+║       Top 8 teams out of 19,000+ participants nationwide         ║
+║                                                                  ║
+║   🎓  Semester Topper — SR University                            ║
+║       1st, 2nd & 3rd Year | Consistent Academic Excellence       ║
+║                                                                  ║
+║   📊  CGPA 8.5 / 10                                              ║
+║       Strong performance in DSA, DBMS, OS & Java                 ║
+║                                                                  ║
+║   👥  Coding Club — Membership Chair                             ║
+║       Managed 200+ members | +40% growth | 100+ workshops        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 👥 Leadership & Impact
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📜 &nbsp; Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Issuer | 🔗 |
+|:---|:---|:---:|
+| **Networking Basics** | Cisco | ✅ |
+| **AWS Academy — Cloud Security Builder** | Amazon Web Services | ✅ |
+| **AWS Academy — Cloud Web Application Builder** | Amazon Web Services | ✅ |
+| **AWS Academy — Cloud Developing** | Amazon Web Services | ✅ |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👥 &nbsp; Leadership & Impact
 
 <div align="center">
 
@@ -195,73 +222,70 @@ status     : Open to Internships & Backend Engineering Opportunities 💼
 </div>
 
 ```
-📈 Increased Registrations   ████████████████████░░░░  +40%
-🔥 Boosted Engagement        ████████████████░░░░░░░░  +30%
-👥 Members Managed           ████████████████████████  200+
-🛠️ Workshops Organized        ████████████████████░░░░  100+ Students
+  Metric                  Progress                          Result
+  ────────────────────────────────────────────────────────────────
+  Registration Growth     ██████████████████████░░░░  +40%
+  Engagement Boost        ████████████████████░░░░░░  +30%
+  Members Managed         ██████████████████████████  200+
+  Students Impacted       ████████████████████████░░  100+ via workshops
+  Website Uptime          ██████████████████████████  99%
 ```
 
 ---
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 &nbsp; GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=7B2FBE&text_color=ffffff&border_radius=12" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kruthikroshan&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=7B2FBE&currStreakLabel=00E5FF&border_radius=12" width="49%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kruthikroshan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=7B2FBE&text_color=ffffff&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=kruthikroshan&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=7B2FBE&currStreakLabel=00E5FF&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikroshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&border_radius=12" width="40%"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikroshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&border_radius=12&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikroshan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=7B2FBE&point=ffffff&area=true&area_color=0A66C2"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kruthikroshan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00E5FF&line=7B2FBE&point=ffffff&area=true&area_color=0A66C2" />
 
 </div>
 
 ---
 
-## 🌐 Find Me Online
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 &nbsp; Find Me Online
 
 <div align="center">
 
-<a href="https://github.com/kruthikroshan">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/godishalakruthikroshan/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/godishalakruthi3">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/user/kruthikroshan/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kruthikroshan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kruthikroshan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/godishalakruthikroshan/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/godishalakruthi3)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/kruthikroshan/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthikroshan/)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📫 &nbsp; Let's Connect
 
 <div align="center">
 
-| 🌐 Portfolio | 📧 Email | 🔗 LinkedIn |
+| 🌐 Portfolio | 📧 Email | 📍 Location |
 |:---:|:---:|:---:|
-| [myportfolio-five-swart-64.vercel.app](https://myportfolio-five-swart-64.vercel.app/) | [kruthikroshangodishala@gmail.com](mailto:kruthikroshangodishala@gmail.com) | [linkedin.com/in/kruthikroshan](https://www.linkedin.com/in/kruthikroshan) |
+| [myportfolio-five-swart-64.vercel.app](https://myportfolio-five-swart-64.vercel.app/) | [kruthikroshangodishala@gmail.com](mailto:kruthikroshangodishala@gmail.com) | Warangal, Telangana 🇮🇳 |
 
 <br/>
 
-> 💡 *Open to **internships**, **collaborations**, and **backend engineering** opportunities.*  
-> *Let's build something great together!* 🚀
+> 💼 **Open to internships, collaborations & backend engineering roles.**
+> *Let's build something that actually matters.* 🚀
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -269,10 +293,6 @@ status     : Open to Internships & Backend Engineering Opportunities 💼
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0A66C2,100:00E5FF&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0A66C2,100:00E5FF&height=160&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90%20Star%20a%20repo%20if%20you%20like%20my%20work&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
 
 </div>
