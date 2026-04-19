@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0A66C2,70:00E5FF,100:7B2FBE&height=280&section=header&text=Kruthik%20Roshan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20Backend%20Systems%20That%20Scale%20%F0%9F%9A%80&descSize=20&descAlignY=62&descColor=c9f0ff" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=900&lines=Full+Stack+Developer+%7C+Java+%2B+MERN+Stack+%7C+Backend+Engineer;Odoo+National+Hackathon+Finalist+%E2%80%94+Top+8+%2F+19%2C000%2B+Teams+%F0%9F%8F%86;Semester+Topper+%7C+CGPA+8.5+%7C+SR+University+2027;Open+to+Internships+%26+Backend+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=false&width=900&lines=Full+Stack+Developer+%7C+Java+%2B+MERN+Stack+%7C+Backend+Engineer;SaMVed+Hackathon+Top+4+%2F+500%2B+Teams+%7C+Odoo+Top+8+%2F+19%2C000%2B+%F0%9F%8F%86;Semester+Topper+%7C+CGPA+8.5+%7C+SR+University+2027;Open+to+Internships+%26+Backend+Engineering+Roles+%F0%9F%92%BC" alt="Typing SVG" />
 
 <br/><br/>
 
 <!-- SOCIAL BADGES — clean row -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-swart-64.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-two-opal-68.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthikroshan/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kruthikroshan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/godishalakruthikroshan/)
@@ -39,7 +39,7 @@
 │   cgpa     :  8.5 / 10  |  Semester Topper 🏆           │
 │   role     :  Full Stack Dev  |  Backend Engineer        │
 │   stack    :  Java  •  MERN  •  Spring Boot             │
-│   win      :  Odoo Hackathon Finalist  Top 8/19K+       │
+│   wins     :  SaMVed Top 4/500+ | Odoo Top 8/19K+       │
 │   status   :  👀 Open to Internships & Opportunities    │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
@@ -102,14 +102,14 @@
 | Multi-role EdTech platform with AI at its core | Digital health platform eliminating paper records |
 | React 18 • TypeScript • Supabase • Gemini AI • OpenAI | React • Node • Express • MongoDB • Twilio • PDFKit |
 | 3 portals · JWT auth · 40+ PostgreSQL tables · RLS | 4 roles · AES-256 encryption · auto-PDF · SMS alerts |
-| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00E5FF?style=flat-square)](https://edu-track-ai-ed-tech-system.vercel.app/) | *In Development* |
+| [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00E5FF?style=flat-square)](https://edu-track-ai-ed-tech-system.vercel.app/) | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-00E5FF?style=flat-square)](https://hospital-phc.vercel.app/) |
 
-| 🏦 Banking Management System | 🔮 More Coming Soon |
+| 🏦 SmartBank Pro | 🔮 More Coming Soon |
 |:---:|:---:|
-| **Secure Banking Backend Simulator** | **Always building, always shipping** |
-| Real-world banking ops in Java OOP architecture | New projects in the pipeline — stay tuned! |
-| Java • OOP • Collections Framework • CLI | Distributed Systems · High-Performance APIs |
-| CAPTCHA auth · transactions · modular design | AI-Integrated Backends · Secure System Design |
+| **Full-Stack Banking Management System** | **Always building, always shipping** |
+| Spring Boot + MongoDB banking simulator | New projects in the pipeline — stay tuned! |
+| Spring Boot • Java 17 • MongoDB • REST APIs • HTML/CSS/JS | Distributed Systems · High-Performance APIs |
+| ATM PIN auth · captcha login · admin analytics · auto account lock | AI-Integrated Backends · Secure System Design |
 | [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-0A66C2?style=flat-square)](https://banking-management-system-xw7m.onrender.com/) | [![View All](https://img.shields.io/badge/📂_All_Repos-181717?style=flat-square&logo=github)](https://github.com/kruthikroshan?tab=repositories) |
 
 </div>
@@ -140,7 +140,7 @@
 > Full-stack digital health platform for government hospitals & PHCs — zero paper, all digital
 
 - 👥 **4 User Roles** — Patient, Doctor, ASHA Worker & Admin, each with dedicated dashboards
-- 📋 **10 MongoDB Collections** — patient registration, appointments, visits, prescriptions, vaccinations, drug inventory & referrals with **30+ optimised indexes**
+- 📋 **10+ MongoDB Collections** — patient registration, appointments, visits, prescriptions, vaccinations, drug inventory & referrals with **30+ optimised indexes**
 - 📄 **Auto-Generated PDFs** — Digital prescriptions & referral letters with hospital letterhead, QR codes & doctor signature blocks via PDFKit
 - 📲 **SMS Reminders** — Twilio-powered appointment & vaccination due-date alerts via node-cron scheduler
 - 🔐 **Security** — AES-256 encryption for Aadhaar data + JWT role-based access control
@@ -150,17 +150,17 @@
 </details>
 
 <details>
-<summary><b>🏦 Banking Management System — Full Details</b></summary>
+<summary><b>🏦 SmartBank Pro — Full Details</b></summary>
 <br/>
 
-> A real-world banking simulator built entirely in Java with solid OOP foundations
+> A full-stack banking management system built with Spring Boot and MongoDB Atlas
 
-- 🔐 **Authentication** — Account creation with CAPTCHA-based login security
-- 💸 **Transactions** — Deposits, withdrawals, fund transfers & balance checks
-- ✅ **Validation** — Transaction validation with robust error handling throughout
-- 🏗️ **Architecture** — Modular OOP design using abstraction, inheritance & interfaces with Java Collections (ArrayList)
+- 🔐 **Authentication** — ATM PIN verification, CAPTCHA-based login, and auto account lock on suspicious activity
+- 💸 **Transactions** — Deposits, withdrawals, fund transfers, loans, and fixed deposits with real-time balance tracking
+- 📊 **Admin Dashboard** — Live analytics panel for monitoring accounts, transactions, and system health
+- 🏗️ **Architecture** — RESTful APIs with Spring Boot, MongoDB Atlas for scalable backend operations, and clean modular design
 
-**Stack:** `Java` `OOP` `Collections Framework` `CLI Architecture`
+**Stack:** `Spring Boot` `Java 17` `MongoDB Atlas` `REST APIs` `HTML` `CSS` `JavaScript`
 
 </details>
 
@@ -174,6 +174,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🥇  SaMVed Smart Governance Hackathon 2026                     ║
+║       Top 4 among 500+ teams | MIT Vishwaprayag × Solapur MC    ║
 ║                                                                  ║
 ║   🏆  Odoo National Hackathon Finalist                           ║
 ║       Top 8 teams out of 19,000+ participants nationwide         ║
@@ -276,7 +279,7 @@
 
 | 🌐 Portfolio | 📧 Email | 📍 Location |
 |:---:|:---:|:---:|
-| [myportfolio-five-swart-64.vercel.app](https://myportfolio-five-swart-64.vercel.app/) | [kruthikroshangodishala@gmail.com](mailto:kruthikroshangodishala@gmail.com) | Warangal, Telangana 🇮🇳 |
+| [myportfolio-two-opal-68.vercel.app](https://myportfolio-two-opal-68.vercel.app/) | [kruthikroshangodishala@gmail.com](mailto:kruthikroshangodishala@gmail.com) | Warangal, Telangana 🇮🇳 |
 
 <br/>
 
